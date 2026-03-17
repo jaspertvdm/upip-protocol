@@ -1,5 +1,8 @@
 # UPIP — Universal Process Integrity Protocol
 
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.19074793.svg)](https://doi.org/10.5281/zenodo.19074793)
+[![PyPI](https://img.shields.io/pypi/v/tibet-triage)](https://pypi.org/project/tibet-triage/)
+
 **A self-validating paper: the publication reproduces itself to prove what it claims.**
 
 ## What is UPIP?
