@@ -63,7 +63,7 @@ Tested and verified on:
 | OomLlama-HUBby (Lenovo P520) | x86_64 | Debian 12 | 3.11.2 | REPRODUCIBLE |
 | Pixel (Android smartphone) | ARM64 | Android 16 | - | REPRODUCIBLE |
 
-Same UPIP stack hash: `upip:295a57ef4419293c4fad9132e3c5f29381deacd74bf0fe2120c64330ee9e7614`
+Same UPIP stack hash: `upip:7ac281a62e5592304d42a94849311d894a12a4b4b61074909b08eb5291dd1af3`
 
 ## Repository Structure
 
